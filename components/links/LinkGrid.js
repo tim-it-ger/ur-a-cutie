@@ -4,14 +4,14 @@ function LinkGrid() {
 
   const links = [
     {
-      title: "MTG List",
-      description: "Useful list of mtg cards.",
-      link: "https://gatherer.wizards.com/Pages/Default.aspx",
+      title: "Call me",
+      description: "U want to hear my Voice? Click this.",
+      link: "tel:+4915144915102",
     },
     {
-      title: "Pics of Archie",
+      title: "Pics for Wika",
       description: "Feeling Down? Check these.",
-      link: "https://www.icloud.com/sharedalbum/#B0OGWZuqDJpPvsa",
+      link: "https://www.icloud.com/sharedalbum/#B0lJtdOXmPzvVpm",
     },
     {
       title: "Doordash",
